@@ -1,0 +1,15 @@
+# Panel files
+*.sgd
+*.zip
+*.vtz
+*.vtz.hash
+*.asv
+*Core3.hash
+*(iPad).Core3/
+
+# Visual Studio
+*.suo
+*.user
+*.projectinfo
+[Dd]ebug/
+[Rr]elease/
